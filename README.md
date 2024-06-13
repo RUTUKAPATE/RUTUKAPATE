@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm passionate about crafting elegant solutions to
 - Solving complex technical challenges with innovative solutions.
 
 ## 📫 How to reach me:
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/rutuja-kapate)
+- **LinkedIn**: [Rutuja Kapate](https://www.linkedin.com/in/rutuja-kapate)
 - **Email**: rutuja16kapate@gmail.com
 
 ## 🌟 Fun Fact:
